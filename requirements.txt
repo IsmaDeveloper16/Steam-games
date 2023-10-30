@@ -25,4 +25,4 @@ tzdata
 urllib3
 uvicorn
 pyarrow
-starlette==0.28.0
+starlette<0.28.0
