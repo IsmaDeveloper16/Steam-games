@@ -11,7 +11,7 @@ joblib
 numpy
 pandas
 pydantic
-pydantic_core
+pydantic-core==2.10.1
 python-dateutil
 pytz
 requests
@@ -19,10 +19,10 @@ scikit-learn
 scipy
 six
 sniffio
-starlette
 threadpoolctl
 typing_extensions
 tzdata
 urllib3
 uvicorn
 pyarrow
+starlette==0.28.0
