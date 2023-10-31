@@ -39,6 +39,6 @@ El siguiente proyecto tiene como objetivo crear un sistema de recomendación de 
     
   - **Paso 6 - Carga de archivos y finalizacion:** Por ultimo, cargue todos mis archivos a mi repositorio de GitHub y creé este readme.
     
-  - **Paso 7 - Video:** tambien pude realizar el video solicitado aqui les dejo el [link]()
+  - **Paso 7 - Video:** tambien pude realizar el video solicitado aqui les dejo el [link](https://youtu.be/WdIblEoo1C4)
 
 ![fin](https://i.ytimg.com/vi/iclPAx8jMOA/maxresdefault.jpg)
