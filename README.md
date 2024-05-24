@@ -1,4 +1,4 @@
-# Steam GAMES
+# STEAM GAMES
 
 Buenas, soy Ismael Alejandro Flores y este es un analisis hacerca de STEAM GAMES:
 
