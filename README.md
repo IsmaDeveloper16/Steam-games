@@ -53,19 +53,19 @@ El siguiente proyecto tiene como objetivo crear un sistema de recomendación de 
     <td>
       <p align="center">Enacom-Comunicaciones</p>
       <a href="https://github.com/IsmaDeveloper16/Enacom-Comunicaciones">
-        <img src="https://www.enacom.gob.ar/multimedia/noticias/N/202104/archivo_20210414032123_6165_720x447.jpg" alt="Enacom-Comunicaciones" width="400" height="300">
+        <img src="https://www.enacom.gob.ar/multimedia/noticias/N/202104/archivo_20210414032123_6165_720x447.jpg" alt="Enacom-Comunicaciones" width="500" height="300">
       </a>
     </td>
     <td>
-      <p align="center">Logo de Steam 2</p>
-      <a href="https://store.steampowered.com">
-        <img src="https://cdn.cloudflare.steamstatic.com/store/home/store_home_share.jpg" alt="Logo de Steam 2" width="300" height="300">
+      <p align="center"> NewYorkDrive </p>
+      <a href="https://github.com/IsmaDeveloper16/Proyecto-final">
+        <img src="https://cnnespanol.cnn.com/wp-content/uploads/2022/03/220324090854-02-nyc-taxi-cab-file-full-169.jpg?quality=100&strip=info" alt="NewYorkDrive" width="500" height="300">
       </a>
     </td>
     <td>
-      <p align="center">Logo de Steam 3</p>
-      <a href="https://store.steampowered.com">
-        <img src="https://cdn.cloudflare.steamstatic.com/store/home/store_home_share.jpg" alt="Logo de Steam 3" width="300" height="300">
+      <p align="center">Dengue Proyect</p>
+      <a href="https://github.com/IsmaDeveloper16/Dengue_proyect">
+        <img src="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/7MD3PAPQIRCDTEDI5MFPGV3KQY.jpg" alt="Dengue Proyect" width="500" height="300">
       </a>
     </td>
   </tr>
