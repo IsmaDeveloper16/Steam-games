@@ -1,15 +1,18 @@
 # STEAM GAMES
 
-Buenas, soy Ismael Alejandro Flores y este es un analisis hacerca de STEAM GAMES:
+Buenas, soy Ismael Alejandro Flores y este es un proyecto personal que realice utilizando ciencias e ingenieria de datos para desarrollar un sistemas de recomendacion de videojueguos y funciones especificas que ayuden al usuario.
+
+<img src="https://cdn.cloudflare.steamstatic.com/store/home/store_home_share.jpg" alt="logo de steam" width="1000" height="300">
+
 
 ## Introduccion:
 El siguiente proyecto tiene como objetivo crear un sistema de recomendación de videojuegos y algunas funciones para que faciliten el retorno de informacion relevante pedida por el usuario de Steam. A lo largo del proyecto puse en practica lo aprendido en los seis modulos que estuve cursando en Henry, tuve la capacidad de afrontar diversos problemas y errores.
 
-![logo de steam](https://cdn.cloudflare.steamstatic.com/store/home/store_home_share.jpg)
+## Ostaculos y soluciones:
 
+  A lo largo de la realizacion de este proyecto me enfrente con distintos obstaculos los cuales me presentaron ciertas trabas que me impidieron no poder seguir avanzando, lo cual me llevo a realizar investigaciones y plantear soluciones, como en el apartado en el cual hice uso de metodologias NLP para realizar un analisis de sentimiento de las reviews de los jugadores o en la implementacion de una api funcional para poder deployar mi proyecto, aunque estos pasos fueron muy complejos pude realizarlos y poder obtener un modelo de recomendacion y funciones competitivo.
 
 ## Herramientas utilizadas
-### Acontinuacion estare haciendo un listado de las Herramientas que estuve utilizando para realizar este proyecto:
 - **VsCode**
 - **Python**
   - Pandas
@@ -27,18 +30,44 @@ El siguiente proyecto tiene como objetivo crear un sistema de recomendación de 
 
 ## Pasos realizados:
 ### Estos son los pasos que estuve realizando en orden: 
-  - **Paso 1 - La problematica y datos:** Lo primero que hice fue entender la problematica que se estaba plantenado, obtener los datos y poder cargarlos a VsCode para poder trabajar en una solucion a la problematica existente.
+  - **Paso 1 - La problematica y datos** 
     
-  - **Paso 2 - Limpieza, normalizacion y EDA:** Lo siguiente que realice fue hacer una limpieza y normalizacion de los datasets obtenidos, en este proceso tambien hice varios analisis de los datasets para asi determinar si era mejor trabajar con uno o con varios datasets. Tambien en esta parte realice mi EDA dejando todo listo para la seccion donde me encarge de hacer las funciones.
+  - **Paso 2 - Limpieza, normalizacion y EDA**
     
-  - **Paso 3 - Analisis de sentimiento:** Luego realice un analisis de sentimiento mediante **NLP** a la columna reviews de la tabla review.
+  - **Paso 3 - Analisis de sentimiento:**
     
-  - **Paso 4 - Funciones y recomendaciones:** Despues seguí con las funciones y el sistema de recomendacion de videojuegos solicitados.
+  - **Paso 4 - Funciones y recomendaciones:**
     
-  - **Paso 5 - API y Deployment:** Una vez hechas mis funciones comence con el armado de la api, me tope con diversos problemas pero pude realizar la API correctamente. Seguidamente cargue mis archivos a GitHub para realizar el deployment, una vez cargado, creé mi cuenta de render y lo conecte a mi github, luego pude realizar el deploy dejando funcionando la aplicacion. Como estoy usando la version gratuita de render que brinda pocos recursos hay funciones que no andan en el deploy por falta de tiempo y recursos, pero las que no requieren tanto recursos andan perfectamente. Aqui esta el enlace del [deploy](https://isma-proyect.onrender.com/docs#/).
+  - **Paso 5 - API y Deployment:**  Aqui esta el enlace del [deploy](https://isma-proyect.onrender.com/docs#/).
     
-  - **Paso 6 - Carga de archivos y finalizacion:** Por ultimo, cargue todos mis archivos a mi repositorio de GitHub y creé este readme.
+  - **Paso 6 - Carga de archivos y finalizacion:**
     
-  - **Paso 7 - Video:** tambien pude realizar el video solicitado aqui les dejo el [link](https://youtu.be/WdIblEoo1C4)
+  - **Paso 7 - Video:** tambien pude realizar un video explicando el proyecto, aqui les dejo el [link](https://youtu.be/WdIblEoo1C4)
 
-![fin](https://i.ytimg.com/vi/iclPAx8jMOA/maxresdefault.jpg)
+# Los invito a ver alguno de mis otros proyectos personales que realicé:
+
+<h2> proyectos: </h2>
+
+<table>
+  <tr>
+    <td>
+      <p align="center">Enacom-Comunicaciones</p>
+      <a href="https://github.com/IsmaDeveloper16/Enacom-Comunicaciones">
+        <img src="https://www.enacom.gob.ar/multimedia/noticias/N/202104/archivo_20210414032123_6165_720x447.jpg" alt="Enacom-Comunicaciones" width="400" height="300">
+      </a>
+    </td>
+    <td>
+      <p align="center">Logo de Steam 2</p>
+      <a href="https://store.steampowered.com">
+        <img src="https://cdn.cloudflare.steamstatic.com/store/home/store_home_share.jpg" alt="Logo de Steam 2" width="300" height="300">
+      </a>
+    </td>
+    <td>
+      <p align="center">Logo de Steam 3</p>
+      <a href="https://store.steampowered.com">
+        <img src="https://cdn.cloudflare.steamstatic.com/store/home/store_home_share.jpg" alt="Logo de Steam 3" width="300" height="300">
+      </a>
+    </td>
+  </tr>
+</table>
+
