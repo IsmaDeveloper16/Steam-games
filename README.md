@@ -63,9 +63,9 @@ El siguiente proyecto tiene como objetivo crear un sistema de recomendación de 
       </a>
     </td>
     <td>
-      <p align="center">Dengue Proyect</p>
-      <a href="https://github.com/IsmaDeveloper16/Dengue_proyect">
-        <img src="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/7MD3PAPQIRCDTEDI5MFPGV3KQY.jpg" alt="Dengue Proyect" width="500" height="300">
+      <p align="center">Cat or Dog</p>
+      <a href="https://github.com/IsmaDeveloper16/CaTorDog_Tranfer_Learning">
+        <img src="https://github.com/IsmaDeveloper16/CaTorDog_Tranfer_Learning/blob/main/Proyecto%20CatorDog/imagenes/Presentaci%C3%B3n%20Inteligencia%20Artificial%20Tecnol%C3%B3gica%20Ilustrada%20Azul%20y%20Amarillo%20(1).gif" alt="Dengue Proyect" width="300" height="200">
       </a>
     </td>
   </tr>
